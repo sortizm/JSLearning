@@ -1,0 +1,26 @@
+#grid {
+    border: 1px solid black;
+    margin: 100px;
+    height: 400px;
+    background: white;
+    width: 400px;
+}
+
+.darkCell{
+    background: black;
+}
+
+#welcomeBanner {
+    background: darkgreen;
+    color: white;
+    height: 100px;
+    margin: 0px;
+    padding-left: 50px;
+    padding-top:50px;
+    font-size: 50px;
+}
+
+body {
+    background: darkgrey;
+    margin: 0px;
+}
