@@ -8,7 +8,6 @@ let names;
 
     searchInput.addEventListener('input', function () {
 
-        //e.firstElementChild can be used.
         let child = searchSuggestions.lastElementChild;
         while (child) {
             searchSuggestions.removeChild(child);
