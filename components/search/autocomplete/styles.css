@@ -1,0 +1,20 @@
+.autocomplete {
+    display: block;
+    position: absolute;
+    background-color: white;
+    z-index: 1;
+}
+
+.suggestions {
+    display: none;
+}
+
+.autocomplete a {
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+
+.show {
+    display: block;
+}
